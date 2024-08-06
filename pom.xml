@@ -415,14 +415,14 @@
                       </action>
                     </pluginExecution>
                     <pluginExecution>
-                      <pluginExecutionFilter>
-                        <groupId>org.springframework.boot</groupId>
-                        <artifactId>spring-boot-maven-plugin</artifactId>
-                        <versionRange>[1,)</versionRange>
-                        <goals>
-                          <goal>build-info</goal>
-                        </goals>
-                      </pluginExecutionFilter>
+<!--                      <pluginExecutionFilter>-->
+<!--                        <groupId>org.springframework.boot</groupId>-->
+<!--                        <artifactId>spring-boot-maven-plugin</artifactId>-->
+<!--                        <versionRange>[1,)</versionRange>-->
+<!--                        <goals>-->
+<!--                          <goal>build-info</goal>-->
+<!--                        </goals>-->
+<!--                      </pluginExecutionFilter>-->
                       <action>
                         <ignore />
                       </action>
