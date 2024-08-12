@@ -21,7 +21,7 @@
     </repository>
   </distributionManagement>
 
-
+<!---->
 
   <properties>
     <start-class>org.springframework.samples.petclinic.PetClinicApplication</start-class>
